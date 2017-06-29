@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android AsyncTask</string>
+
+    <string-array name="appbasic_links">
+        <item>http://appbasic.com/ps1.xml</item>
+        <item>http://appbasic.com/ps2.xml</item>
+        <item>http://appbasic.com/lwp1.xml</item>
+        <item>http://appbasic.com/lwp2.xml</item>
+    </string-array>
+
+    <string-array name="appbasic_tags">
+        <item>PHOTO_FRAMES_ONE</item>
+        <item>PHOTO_FRAMES_TWO</item>
+        <item>LIVE_WALLPAPER_ONE</item>
+        <item>LIVE_WALLPAPER_TWO</item>
+    </string-array>
+
+</resources>
